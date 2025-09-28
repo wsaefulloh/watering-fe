@@ -186,7 +186,7 @@ function App() {
             </div>
           </CardContent >
         </div >
-        <div style={{ maxWidth: "900px", margin: "0 auto", marginTop: "20px", marginBottom: "40px", marginLeft: "auto", marginRight: "auto" }}>
+        <div className="px-6" style={{ maxWidth: "900px", margin: "0 auto", marginTop: "24px", marginBottom: "40px" }}>
           <div className="flex flex-col">
             <div className="flex items-center gap-3 text-muted-foreground text-sm">
               <img src={BMKG} alt="Logo" width={28} />
